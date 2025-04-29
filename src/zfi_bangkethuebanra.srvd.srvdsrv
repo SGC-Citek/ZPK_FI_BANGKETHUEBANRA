@@ -1,0 +1,5 @@
+@EndUserText.label: 'Bảng kê bán ra service definition'
+define service ZFI_BANGKETHUEBANRA {
+  expose ZFI_I_BANGKETHUEBANRA;
+  expose ZFI_I_FOC;
+}

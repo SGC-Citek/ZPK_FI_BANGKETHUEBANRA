@@ -1,0 +1,34 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Bảng kê thuế bán ra",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD"
+  },
+  "ui5AppDetails": {
+    "appId": "zfibkethuebanra"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_4CCABBE8A08346AE4A56A2C307E81BD53C993D23_TM",
+    "semanticObject": "ZAR02",
+    "action": "report",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_4CCABBE8A08346AE4A56A2C307E81BD53C993D23_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Bảng kê thuế bán ra",
+        "subtitle": "ZAR02"
+      }
+    }
+  ]
+}
